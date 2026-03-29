@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Travel Agency</string>
+
+    <!-- Login & Registration -->
+    <string name="login_title">Agent Login</string>
+    <string name="register_title">Agent Registration</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="go_to_register">Don\'t have an account? Register here</string>
+    <string name="go_to_login">Already have an account? Login here</string>
+
+    <!-- Catalog -->
+    <string name="catalog_title">Tourist Destinations</string>
+    <string name="add_destination_fab_content_description">Add Destination</string>
+    <string name="empty_catalog">No destinations found.</string>
+    <string name="logout">Logout</string>
+
+    <!-- Create / Edit -->
+    <string name="create_destination_title">New Destination</string>
+    <string name="edit_destination_title">Edit Destination</string>
+    <string name="destination_name_hint">Destination Name</string>
+    <string name="destination_country_hint">Country</string>
+    <string name="destination_price_hint">Price (USD)</string>
+    <string name="destination_description_hint">Description (min. 20 chars)</string>
+    <string name="save_button">Save</string>
+    <string name="select_image_button">Select Image</string>
+    <string name="delete_button">Delete</string>
+
+    <!-- Validations & Messages -->
+    <string name="error_empty_fields">All fields are required</string>
+    <string name="error_invalid_price">Price must be greater than 0</string>
+    <string name="error_description_length">Description must be at least 20 characters</string>
+    <string name="error_no_image">An image must be selected</string>
+    <string name="success_save">Destination saved successfully</string>
+    <string name="success_delete">Destination deleted successfully</string>
+    <string name="delete_confirmation_title">Confirm Deletion</string>
+    <string name="delete_confirmation_message">Are you sure you want to delete this destination?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Countries for Spinner -->
+    <string-array name="countries_array">
+        <item>Select a country</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>Costa Rica</item>
+        <item>Panama</item>
+        <item>Mexico</item>
+        <item>USA</item>
+        <item>Spain</item>
+        <item>France</item>
+        <item>Italy</item>
+    </string-array>
+</resources>
