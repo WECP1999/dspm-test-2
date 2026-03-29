@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532440086122",
+    "project_id": "dsmtest2-8d1ef",
+    "storage_bucket": "dsmtest2-8d1ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532440086122:android:91633319da257e2d567c13",
+        "android_client_info": {
+          "package_name": "com.udb.examenparcial2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4XXQpBkaNy5vv8-RSWy0PL5DdA7eiKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
